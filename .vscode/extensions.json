@@ -28,11 +28,14 @@
         "magicstack.MagicPython",
         "yzhang.markdown-all-in-one",
         "davidanson.vscode-markdownlint",
+        "mdickin.markdown-shortcuts",
         "KevinRose.vsc-python-indent",
         "njqdev.vscode-python-typehint",
         "gruntfuggly.todo-tree",
         "mgesbert.python-path",
         "shardulm94.trailing-spaces",
         "stkb.rewrap",
+        "mechatroner.rainbow-csv",
+        "bierner.emojisense"
     ]
 }
